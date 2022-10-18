@@ -1,0 +1,11 @@
+@media screen and (max-width: 420.91px) {
+    .container h1 {
+        font-size: 1.2rem;
+        margin: 0px 20px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+}
